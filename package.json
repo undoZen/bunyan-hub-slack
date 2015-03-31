@@ -1,5 +1,5 @@
 {
-  "name": "bunyan-slack",
+  "name": "bunyan-hub-slack",
   "version": "0.0.8",
   "description": "slack stream for bunyan",
   "main": "./lib/bunyan-slack",
